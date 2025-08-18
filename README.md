@@ -16,7 +16,7 @@ By automating accident alerts, this project ensures **quick medical help** and c
 
 ---
 ```markdown
-![Project Setup](Images/Smart Accident Detection and Alert System.jpg) 
+![Project Setup](https://github.com/sharafathahamed/Smart-Accident-detection-and-alert-system/raw/main/Images/Smart%20Accident%20Detection%20and%20Alert%20System.jpg)
 ```
 
 ## 🎯 Objectives  
