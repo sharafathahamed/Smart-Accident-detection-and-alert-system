@@ -15,6 +15,9 @@ The system utilizes **sensors like accelerometer and vibration sensors** to dete
 By automating accident alerts, this project ensures **quick medical help** and contributes towards **reducing fatalities on roads**.  
 
 ---
+```markdown
+![Project Setup](Images/Smart Accident Detection and Alert System.jpg) 
+```
 
 ## 🎯 Objectives  
 - Detect accidents automatically using real-time sensor data.  
@@ -66,12 +69,3 @@ By automating accident alerts, this project ensures **quick medical help** and c
 - Requires constant power supply.  
 
 ---
-
-## 📷 Project Images / Diagrams  
-(Add your circuit diagrams, setup photos, or demo screenshots here.)  
-
-For example:  
-
-```markdown
-![Project Setup](images/project_setup.jpg)  
-![Circuit Diagram](images/circuit_diagram.png)  
