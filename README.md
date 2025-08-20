@@ -1,13 +1,5 @@
 # 🚗 Smart Accident Detection and Alert System  
 
-**Mini Project (May 2024)**  
-**Team Members:**  
-- Kamalika S  
-- Alwin Raja S  
-- Sharafath Ahamed S  
-
----
-
 ## 📖 Project Description  
 The **Smart Accident Detection and Alert System** is an IoT-based solution designed to improve road safety by detecting accidents in real-time and sending emergency alerts.  
 The system utilizes **sensors like accelerometer and vibration sensors** to detect crashes and leverages **GSM and GPS modules** to notify predefined contacts with the exact location details.  
